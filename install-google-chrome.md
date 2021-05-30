@@ -1,5 +1,8 @@
 # 安裝 Chrome
 
+![install-google-chrome/install-google-chrome.jpg](install-google-chrome/install-google-chrome.jpg)
+
+
 - 開啟瀏覽器
 
     ![install-google-chrome/install-google-chrome(1).jpg](install-google-chrome/install-google-chrome(1).jpg)
