@@ -1,4 +1,4 @@
-# 安裝 Chrome
+# [安裝教學] 瀏覽器 Chrome 安裝
 
 ![install-google-chrome/install-google-chrome.jpg](install-google-chrome/install-google-chrome.jpg)
 
