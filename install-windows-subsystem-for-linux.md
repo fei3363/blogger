@@ -1,6 +1,6 @@
 # install-windows-subsystem-for-linux
 
-![https://github.com/fei3363/blogger/raw/main/install-windows-subsystem-for-linux/blogger.jpg](https://github.com/fei3363/blogger/raw/main/install-windows-subsystem-for-linux/blogger.jpg)
+![https://github.com/fei3363/blogger/raw/main/install-windows-subsystem-for-linux/blogger.png](https://github.com/fei3363/blogger/raw/main/install-windows-subsystem-for-linux/blogger.png)
 
 
 - 點選左下角 Windows 圖示，點選右鍵
